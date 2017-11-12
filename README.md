@@ -1,7 +1,6 @@
 ﻿# IPProxyPool
 IPProxyPool代理池项目，提供代理ip。支持py2和py3两个版本。
-### 我的新书[《Python爬虫开发与项目实战》](https://item.jd.com/12206762.html)出版了,喜欢的话可以看一下[样章](http://pan.baidu.com/s/1hrWEOYg)
-<br/>
+
 详细使用方式，请看我的博客:
 http://www.cnblogs.com/qiyeboy/p/5693128.html
 <br/>
@@ -9,13 +8,6 @@ http://www.cnblogs.com/qiyeboy/p/5693128.html
 <br/>
 
 #### 我的微信公众号:
-
-![](qiye2.jpg)
-<br/>
-希望大家提供更多的代理网站，现在爬取的好用的代理ip还是太少。
-<br/>
-同时感谢[super1-chen](https://github.com/super1-chen),[fancoo](https://github.com/fancoo),[Leibnizhu](https://github.com/Leibnizhu)对项目的贡献。
-<br/>
 
 ## 项目依赖
 

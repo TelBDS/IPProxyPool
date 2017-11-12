@@ -1,13 +1,6 @@
 ﻿# IPProxyPool
 IPProxyPool代理池项目，提供代理ip。支持py2和py3两个版本。
 
-详细使用方式，请看我的博客:
-http://www.cnblogs.com/qiyeboy/p/5693128.html
-<br/>
-最近正在为IPProxyPool添加二级代理，方便调度。大家可以关注我的公众号，更新我会及时通知。
-<br/>
-
-#### 我的微信公众号:
 
 ## 项目依赖
 
